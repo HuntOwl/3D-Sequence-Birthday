@@ -20,7 +20,7 @@ body {
 
 #birthdayText {
   position: absolute;
-  top: clamp(42%,5%,10%);
+  top: clamp(60%,5%,10%);
   left: 50%;
   transform: translate(-50%, -30px);
   font-size: clamp(2rem, 5vw, 4rem);
@@ -66,3 +66,4 @@ body {
   filter: drop-shadow(0 0 8px rgba(255,255,255,0.6))
           drop-shadow(0 0 20px rgba(255,200,200,0.5));
 }
+
